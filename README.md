@@ -1,5 +1,7 @@
 # Pure python MVC design pattern example #
 
+Copied from pahaz:master.  Will be tweaked as needed for learning.  Don't copy mine as it probably won't work :)
+
 Example of the `MVC` (Model View Controller) design pattern on the pure Python. 
 Writen for the "Use Python in the Web" course of the `IMKN` (Institute 
 Mathematics and Computer Science) at the `UrFU` (Ural Federal University) in 
